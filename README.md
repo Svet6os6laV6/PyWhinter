@@ -1,2 +1,2 @@
 # PyWhinter
-Git init
+Git init on my pc
