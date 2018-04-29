@@ -1,2 +1,2 @@
 # PyWhinter
-Git init on my pc
+Git init not my pc
